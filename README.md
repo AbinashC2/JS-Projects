@@ -1,1 +1,1 @@
- Js practice projects
+ Js Todo-list practice project
